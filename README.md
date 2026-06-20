@@ -124,7 +124,7 @@ https://YOUR_USERNAME.github.io/expense-tracker/
 
 ## 👤 Author
 
-**Jatin** — [GitHub](https://github.com/YOUR_USERNAME)
+**Jatinmor89** — [GitHub](https://github.com/Jatinmor89)
 
 ---
 
