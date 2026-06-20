@@ -98,27 +98,7 @@ https://YOUR_USERNAME.github.io/expense-tracker/
 - Form validation in React
 - Component-based architecture
 
----
 
-## 🗂️ Part of My 15-Project Series
-
-| # | Project | Level | Status |
-|---|---------|-------|--------|
-| 1 | Animated Landing Page | 🟢 Beginner | ✅ Done |
-| 2 | Quiz App | 🟢 Beginner | ✅ Done |
-| 3 | Calculator | 🟢 Beginner | ✅ Done |
-| 4 | Todo List | 🟢 Beginner | ✅ Done |
-| 5 | Digital Clock | 🟢 Beginner | ✅ Done |
-| 6 | GitHub Profile Finder | 🟡 Intermediate | ✅ Done |
-| **7** | **Expense Tracker** | 🟡 Intermediate | ✅ **This Project** |
-| 8 | Weather App | 🟡 Intermediate | 🔜 Next |
-| 9 | Markdown Previewer | 🟡 Intermediate | 🔜 |
-| 10 | URL Shortener | 🟡 Intermediate | 🔜 |
-| 11 | Blog Platform | 🔴 Advanced | 🔜 |
-| 12 | Real-time Chat | 🔴 Advanced | 🔜 |
-| 13 | E-commerce Store | 🔴 Advanced | 🔜 |
-| 14 | AI Image Generator | 🔴 Advanced | 🔜 |
-| 15 | NeuralChat AI | 🔴 Advanced | 🔜 |
 
 ---
 
