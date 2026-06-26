@@ -3,8 +3,6 @@
 A beautiful and modern **Expense Tracker** built with **React + Vite + Recharts**.  
 Track your daily spending, view category charts, and manage your finances — all saved in localStorage.
 
-![SpendWise Preview](https://jatinmor89.github.io/expense-tracker/)
-
 ---
 
 ## 🚀 Features
